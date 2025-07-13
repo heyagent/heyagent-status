@@ -4,19 +4,19 @@
     "url": "https://heyagent-app.heyagentai.workers.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/heyagent-app.heyagentai.workers.dev.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 699,
-    "timeDay": 424,
-    "timeWeek": 658,
-    "timeMonth": 699,
-    "timeYear": 699,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 716,
+    "timeDay": 545,
+    "timeWeek": 683,
+    "timeMonth": 716,
+    "timeYear": 716,
     "dailyMinutesDown": {
-      "2025-07-13": 20
+      "2025-07-13": 27
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-07-13": 1174,
+      "2025-07-13": 1181,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -64,7 +64,7 @@
     "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-07-13": 1174,
+      "2025-07-13": 1181,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -92,7 +92,7 @@
     "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-07-13": 1174,
+      "2025-07-13": 1181,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
