@@ -1,7 +1,7 @@
 url: https://heyagent-app.heyagentai.workers.dev/
-status: down
-code: 503
-responseTime: 220
-lastUpdated: 2025-07-13T14:10:02.348Z
+status: up
+code: 200
+responseTime: 203
+lastUpdated: 2025-07-13T14:30:30.652Z
 startTime: 2025-07-05T18:58:19.304Z
 generator: Upptime <https://github.com/upptime/upptime>
